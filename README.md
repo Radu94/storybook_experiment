@@ -1,2 +1,2 @@
 # storybook_experiment
-Experimenting with StoryBook
+Tutorial from: https://egghead.io/courses/design-systems-with-react-and-typescript-in-storybook 
