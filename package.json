@@ -1,0 +1,27 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook -p 6006 -c .storybook"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@storybook/addon-info": "^3.4.11",
+    "@storybook/addon-knobs": "^3.4.11",
+    "@storybook/addons": "^3.4.11",
+    "@storybook/react": "4.0.0-alpha.3",
+    "babel-core": "^6.26.3",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "storybook-addon-jsx": "^5.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.14",
+    "awesome-typescript-loader": "^5.2.1",
+    "typescript": "^3.0.3"
+  }
+}
